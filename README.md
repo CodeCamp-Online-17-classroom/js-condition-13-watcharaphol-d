@@ -6,3 +6,7 @@
 - ถ้า input = -1 ให้ alert “Minus”
 - ถ้าไม่ใช่ค่าที่กล่าวมาให้ alert “Invalid number”
 - ให้เขียนโดยใช้ switch case
+
+### Homework Finished 12/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
